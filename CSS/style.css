@@ -13,7 +13,8 @@ p {
 h2 {
   color: #66bfbf;
   font-size: 3rem;
-  font-family: "Sacramento", cursive;
+  font-family: "Sacramento", Helvetica, sans-serif;
+  margin: auto;
 }
 
 h3 {
@@ -21,7 +22,8 @@ h3 {
   font-family: "Montserrat", sans-serif;
   font-size: 2.5rem;
   font-weight: normal;
-  margin: 1%;
+  margin: auto;
+  padding-top: 20px;
 }
 
 a:hover {
@@ -53,5 +55,6 @@ body {
 }
 
 img {
-  margin-top: 50px;
+  margin: auto;
+  margin-top: 25px;
 }
