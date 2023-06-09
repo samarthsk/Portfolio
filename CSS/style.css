@@ -1,0 +1,57 @@
+#intro {
+  position: relative;
+}
+
+#summary {
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+}
+
+h2 {
+  color: #66bfbf;
+  font-size: 3rem;
+  font-family: "Sacramento", cursive;
+}
+
+h3 {
+  color: #66bfbf;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  margin: 1%;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+
+p {
+  width: 50%;
+  margin: auto;
+  padding-bottom: 10px;
+}
+
+a {
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+}
+
+#links {
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+}
+
+img {
+  margin-top: 50px;
+}
